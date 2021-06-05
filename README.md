@@ -23,8 +23,18 @@ for a specific choice of parameters.
 
 * mathematica/pVHS_BoltzmannCollisions.nb
 
-#### To get started:
+A version of the code can also be used and edited in the Wolfram Cloud using the  [link on notebookarchive.org](https://notebookarchive.org/2021-05-607ilfo/)
+
+#### Code Overview
+
+* mathematica/pVHS_BoltzmannCollisions.pdf
+
+#### To get started with the notebook:
   1. open the file
   2. mark all cells (crtl+a)
   3. run (shift+enter)
  
+ #### Contact 
+ 
+ If you have any questions don't hesitate to contact us.
+
